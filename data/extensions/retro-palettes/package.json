@@ -1,0 +1,16 @@
+{
+  "name": "retro-palettes",
+  "displayName": "Retro Palettes",
+  "version": "1.0",
+  "author": { "name": "Fabrice Fernandez" },
+  "publisher": "fabio",
+  "categories": [
+    "Palettes"
+  ],
+  "contributes": {
+    "palettes": [
+      { "id": "megadrive", "path": "./megadrive_ImaGenesis.gpl" },
+      { "id": "pc engine", "path": "./pc_engine.gpl" },
+    ]
+  }
+}
